@@ -2,7 +2,7 @@
 # 🚀 Lumina Internship - Agent Track Submission
 **Non-Linear Agent with LangGraph & Mistral 7B**
 
-![Agent Demonstration](./screenshot.png)
+![Agent Demonstration](./Screenshot.png)
 
 ## 📋 Project Overview
 A dynamic agent system that intelligently routes user queries to specialized handlers using:
@@ -52,8 +52,8 @@ python agent_graph.py
 .
 ├── agent_graph.py          # Main implementation
 ├── requirements.txt        # Dependency list
-├── screenshot.png          # Demonstration
-└── agent.log               # Sample execution log
+└── screenshot.png          # Demonstration
+ 
 ```
 
 ## 🌟 Advanced Features
