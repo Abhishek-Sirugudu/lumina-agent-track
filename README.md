@@ -74,9 +74,6 @@ python agent_graph.py
 - **Hardware**: Requires 8GB+ RAM for optimal performance
 - **Testing**: Full test coverage with `pytest` available
 
-## 📜 License
-MIT License - See [LICENSE](LICENSE) for details
-
 ---
 **Candidate**: Abhishek Sirugudu  
 **Submission Date**: 08-07-2025  
